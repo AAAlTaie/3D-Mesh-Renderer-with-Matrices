@@ -4,7 +4,7 @@ Welcome to the 3D Mesh Renderer with Matrices repository! This project aims to d
 
 # Objective
 
-The primary objective of this project is to develop a 3D mesh renderer capable of rendering objects in a 3D space using three different matrices: World Matrix, View Matrix, and Projection Matrix. These matrices serve different purposes in positioning and rendering objects within the scene, adding depth and perspective to the rendered output.
+The primary objective of this project is to showcase a 3D mesh renderer capable of rendering objects in a 3D space using three different matrices: World Matrix, View Matrix, and Projection Matrix. These matrices serve different purposes in positioning and rendering objects within the scene, adding depth and perspective to the rendered output.
 
 # Core Development info:
 
