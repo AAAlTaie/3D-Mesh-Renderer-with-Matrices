@@ -1,0 +1,31 @@
+﻿  RasterSurface.cpp
+C:\Users\Queen Anne's Revange\Desktop\FSU\Computer Graphics c++\Week 2\Abobakr_Altaie_Lab_2\Class Utilities\RasterSurface.cpp(111,29): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+C:\Users\Queen Anne's Revange\Desktop\FSU\Computer Graphics c++\Week 2\Abobakr_Altaie_Lab_2\Class Utilities\RasterSurface.cpp(111,37): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+  XTime.cpp
+  Lab_Assignment_2.cpp
+C:\Users\Queen Anne's Revange\Desktop\FSU\Computer Graphics c++\Week 2\Abobakr_Altaie_Lab_2\Draw.h(49,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Queen Anne's Revange\Desktop\FSU\Computer Graphics c++\Week 2\Abobakr_Altaie_Lab_2\Draw.h(51,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Queen Anne's Revange\Desktop\FSU\Computer Graphics c++\Week 2\Abobakr_Altaie_Lab_2\Draw.h(77,20): warning C4244: 'initializing': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\Queen Anne's Revange\Desktop\FSU\Computer Graphics c++\Week 2\Abobakr_Altaie_Lab_2\Draw.h(79,20): warning C4244: 'initializing': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\Queen Anne's Revange\Desktop\FSU\Computer Graphics c++\Week 2\Abobakr_Altaie_Lab_2\Draw.h(81,20): warning C4244: 'initializing': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\Queen Anne's Revange\Desktop\FSU\Computer Graphics c++\Week 2\Abobakr_Altaie_Lab_2\Draw.h(83,20): warning C4244: 'initializing': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\Queen Anne's Revange\Desktop\FSU\Computer Graphics c++\Week 2\Abobakr_Altaie_Lab_2\Draw.h(100,130): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Queen Anne's Revange\Desktop\FSU\Computer Graphics c++\Week 2\Abobakr_Altaie_Lab_2\Draw.h(100,106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Queen Anne's Revange\Desktop\FSU\Computer Graphics c++\Week 2\Abobakr_Altaie_Lab_2\Lab_Assignment_2.cpp(127,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\xutility(4640,27): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Queen Anne's Revange\Desktop\FSU\Computer Graphics c++\Week 2\Abobakr_Altaie_Lab_2\Lab_Assignment_2.cpp(108): message : see reference to function template instantiation '_OutIt *std::fill_n<float*,int,int>(_OutIt,const _Diff,const _Ty &)' being compiled
+          with
+          [
+              _OutIt=float *,
+              _Diff=int,
+              _Ty=int
+          ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 366 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Lab_Assignment_2.vcxproj -> C:\Users\Queen Anne's Revange\Desktop\FSU\Computer Graphics c++\Week 2\Abobakr_Altaie_Lab_2\x64\Release\Lab_Assignment_2.exe
